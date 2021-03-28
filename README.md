@@ -1,3 +1,3 @@
 # Habit Tracker
 
-Habit Tracker using React.
+🦄 Habit Tracker using React.
